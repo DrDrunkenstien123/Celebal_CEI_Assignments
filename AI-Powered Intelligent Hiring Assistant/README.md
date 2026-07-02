@@ -235,7 +235,7 @@ Hugging Face Deployment:
 ### Home Interface
 <img width="1917" height="902" alt="Home Interface" src="https://github.com/user-attachments/assets/f9edb027-64e5-4c4d-82e4-bb56b9b4904d" />
 
-Another View 
+### Another View 
 <img width="1881" height="817" alt="Another view" src="https://github.com/user-attachments/assets/a0ee0fe0-66cf-4a1d-9759-5100fcaeb10c" />
 
 ### Candidate Input
