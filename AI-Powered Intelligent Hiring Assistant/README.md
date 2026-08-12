@@ -189,8 +189,8 @@ Measures how many required skills are present in the resume.
 AI-Hiring-Tool/
 │
 ├── notebooks/
-│   ├── 01_EDA_Preprocessing.ipynb
-│   └── 04_Candidate_Assistant_RAG_UI.ipynb
+│   ├── EDA_Preprocessing.ipynb
+│   └── Candidate_Assistant_RAG_UI.ipynb
 │
 ├── deployment/
 │   ├── app.py
